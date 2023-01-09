@@ -1,5 +1,5 @@
 # CoinbaseBuidlTheFuture-KUP-info <br/>
-> https://
+> https://buidl-the-future.hackerearth.com/challenges/hackathon/buidl-the-future/dashboard/2631f81/submission/
 ## This repository has everything you want to know about the KUP<br/>
 Gitbook: https://kup.gitbook.io <br/>
 Website: https://coinbase-kup-web.vercel.app/ <br/>
